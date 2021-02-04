@@ -1,6 +1,6 @@
 # Quality-Start-Likelihood
 
-This project was created to help predict the likelihood that an MLB pitcher will earn a Quality Start (QS) next game. More detail about the story and reasoning behind the project is located here. And the script to run the model can be found [here](https://github.com/kumarsingaram3/Quality-Start-Classifier/blob/main/qs_classifier.ipynb).
+This project was created to help predict the likelihood that an MLB pitcher will earn a Quality Start (QS) next game. A more detailed background about the project can be found [here](https://github.com/kumarsingaram3/Quality-Start-Likelihood/blob/main/QS%20Likelihood%20Background.docx). And the script to run the model can be found [here](https://github.com/kumarsingaram3/Quality-Start-Classifier/blob/main/qs_classifier.ipynb).
 
 ## Project Description
 
