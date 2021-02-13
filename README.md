@@ -1,6 +1,6 @@
 # Quality-Start-Likelihood
 
-This project was created to help predict the likelihood that an MLB pitcher will earn a Quality Start (QS) next game. A more detailed background about the project can be found [here](https://github.com/kumarsingaram3/Quality-Start-Likelihood/blob/main/QS%20Likelihood%20Background.docx). And the script to run the model can be found [here](https://github.com/kumarsingaram3/Quality-Start-Classifier/blob/main/qs_classifier.ipynb).
+This project was created to help predict the likelihood that an MLB pitcher will earn a Quality Start (QS) next game for the purpose of our fantasy baseball league. A more detailed background about the project can be found [here](https://github.com/kumarsingaram3/Quality-Start-Likelihood/blob/main/QS%20Likelihood%20Background.docx). And the script to run the model can be found [here](https://github.com/kumarsingaram3/Quality-Start-Classifier/blob/main/qs_classifier.ipynb).
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This project was created to help predict the likelihood that an MLB pitcher will
 
 ## Project Description
 
-In Major League Baseball (MLB), each team has a pitching rotation they cycle through each week. Pitchers cannot play daily because doing so, adds wear and tear to their throwing arm, so these starts are typically once a week. Of the statistics that help determine a pitcher’s success in a particular start, the QS may be the most important. This is because a pitcher has two essential jobs: to prevent runs and force enough outs to get his teams’ batters back in a position to score. To get a QS, a pitcher must allow three or less earned runs and play at least six innings. The QS is a particularly important metric in fantasy baseball because of its correlation to other pitching categories we are trying to win: ERA, WHIP, and strikeouts.
+In Major League Baseball (MLB), each team has a pitching rotation they cycle through each week. Pitchers cannot play daily because doing so, adds wear and tear to their throwing arm, so these starts are typically once a week. Of the statistics that help determine a pitcher’s success in a particular start, the QS may be the most important. This is because a pitcher has two essential jobs: to prevent runs and force enough outs to get his teams’ batters back in a position to score. To get a QS, a pitcher must allow three or less earned runs and play at least six innings. The QS is a particularly important metric in fantasy baseball because of its correlation to other pitching categories we are trying to win in fantasy baseball: ERA, WHIP, and strikeouts.
 
 ## Findings
 
